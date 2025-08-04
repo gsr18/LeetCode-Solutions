@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Windows files
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Ignore compiled C++/Java files
+*.class
+*.exe
+*.o
+*.out
+
+# Ignore node_modules (if any)
+node_modules/
